@@ -1,4 +1,4 @@
-## oqolarte's build of st - simple (suckless) terminal
+## oqolarte's build of st - simple terminal
 
 ## [PATCHES](https://st.suckless.org/patches/)
 
