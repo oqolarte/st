@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Liberation Mono:pixelsize=13:antialias=true:autohint=true";
-static char *font2[] = { "SpaceMono:pixelsize=13:antialias=true:autohint=true" };
+static char *font = "Liberation Mono:pixelsize=14:antialias=true:autohint=true";
+static char *font2[] = { "SpaceMono:pixelsize=14:antialias=true:autohint=true" };
 
 static int borderpx = 2;
 
